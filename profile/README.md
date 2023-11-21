@@ -4,10 +4,10 @@ organization contains all the software repositories that form the AI4OS
 software stack.
 
 AI4OS is powering the [AI4EOSC platform](https://dashboard.cloud.ai4eosc.eu/)
-or the [iMagine platform](https://dashboard.cloud.imagine-ai.eu/) among others
+and the [iMagine platform](https://dashboard.cloud.imagine-ai.eu/) among others
 and can be tailored to build specific AI platforms for scientific communities.
 
-## Other GithHub organizations
+## Other GitHub organizations
 
 * [AI4EOSC](https://github.com/ai4eosc): This is the main organization for all
   project related assets.
@@ -16,14 +16,14 @@ and can be tailored to build specific AI platforms for scientific communities.
   [iMagine platform](https://dashboard.cloud.imagine-ai.eu/) among others.
 * [AI4OS-Hub](https://github.com/ai4os-hub): This is the organization that
   contains the main modules and tools contributed to the platforms.
-* [DEEP-HDC](https://github.com/deep-hdc) (deprecated): This is deprectated
+* [DEEP-HDC](https://github.com/deephdc) (deprecated): This deprecated
   organization contains legacy applications and modules, now migrated to this
   new structure.
 
 ## What is AI4EOSC
 
 AI4EOSC is a [Horizon Europe project](https://ai4eosc.eu/) that will deliver an
-enhanced set services for the development of AI, ML and DL models and
+enhanced set of services for the development of AI, ML and DL models and
 applications in the EOSC. The services will make use of advanced features such
 as distributed, federated and split learning; provenance metadata; event-driven
 data processing services or provisioning of AI/ML/DL services based on
